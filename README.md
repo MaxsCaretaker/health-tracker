@@ -1,4 +1,4 @@
-# ❤️ Health Tracker
+# Health Tracker
 
 A desktop application for tracking your daily health metrics, built with Python.
 
@@ -70,13 +70,6 @@ health-tracker/
 ├── health_data.csv   # Auto-generated data file
 └── README.md
 ```
-
----
-
-## Author
-
-**Max** — Computer Engineering, B.S.  
-[GitHub](https://github.com/YOUR_USERNAME)
 
 ---
 
